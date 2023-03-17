@@ -1,3 +1,3 @@
 function myFunction() {
-  console.log('have a great day!')
+  // console.log('have a great day!')
 }
